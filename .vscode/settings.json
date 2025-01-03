@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/home/naim/anaconda3/envs/ai_projects/bin/python",
+  "python.analysis.extraPaths": ["/home/naim/anaconda3/envs/ai_projects/lib/python3.11/site-packages"]
+}
